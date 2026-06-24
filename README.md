@@ -62,7 +62,3 @@ Tampermonkey → 新建脚本 → 粘贴 `tampermonkey-lite.js` → Ctrl+S
 | `server.py` | 本地 HTTP 服务，调用 Vision API |
 | `tampermonkey-lite.js` | 浏览器用户脚本 |
 | `SKILL.md` | 详细文档 |
-
-## License
-
-MIT
